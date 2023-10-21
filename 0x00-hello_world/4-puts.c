@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /*
- * main: program starts and ends here
+ * main - program starts and ends here
+ *
  * return; always 0 (success)
  */
 
